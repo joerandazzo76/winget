@@ -48,7 +48,7 @@ $apps = @(
     @{name = "WhatsApp.WhatsApp" },
     @{name = "SublimeHQ.SublimeText.4" },
     @{name = "DisplayLink.GraphicsDriver" },
-    @{name = "Google.Chrome }
+    @{name = "Google.Chrome" }
 );
 Foreach ($app in $apps) {
     $listApp = winget list --exact -q $app.name --accept-source-agreements 
