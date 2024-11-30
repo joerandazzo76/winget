@@ -1,0 +1,8 @@
+2024-09-24 20:28:24,617 [INFO] System: Windows, Architecture: AMD64, RAM: 47 GB
+2024-09-24 20:28:24,617 [INFO] Checking system resources...
+2024-09-24 20:28:24,617 [INFO] Disk Space: 138 GB available
+2024-09-24 20:28:24,618 [INFO] RAM: 21160 MB available
+2024-09-24 20:28:24,620 [DEBUG] Starting new HTTPS connection (1): www.google.com:443
+2024-09-24 20:28:24,962 [DEBUG] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+2024-09-24 20:28:24,964 [INFO] Network: Connected
+2024-09-24 20:28:24,965 [INFO] Dry run mode enabled. Applications to install: ['Microsoft.VisualStudioCode', 'git', 'docker', 'github-cli', 'python3', 'node', 'google-chrome', 'firefox', 'slack', 'spotify'], to remove: ['3DBuilder', 'MixedRealityPortal']

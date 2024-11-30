@@ -1,0 +1,18 @@
+{
+    "install": [
+        "Microsoft.VisualStudioCode",
+        "git",
+        "docker",
+        "github-cli",
+        "python3",
+        "node",
+        "google-chrome",
+        "firefox",
+        "slack",
+        "spotify"
+    ],
+    "remove": [
+        "3DBuilder",
+        "MixedRealityPortal"
+    ]
+}
